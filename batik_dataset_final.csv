@@ -1,0 +1,230 @@
+filepath,provinsi,nama_batik,predicted_cluster,cluster_label,r1,g1,b1,hex1,r2,g2,b2,hex2,r3,g3,b3,hex3
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_Boraspati/SumateraUtara_Boraspati (45).jpg,Sumatera Utara,Boraspati,3,Ringan dengan Objek Kecil Terbuka,42,27,27,#2a1b1b,116,43,45,#742b2d,144,52,55,#903437
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_Boraspati/SumateraUtara_Boraspati (49).jpg,Sumatera Utara,Boraspati,2,Objek Dominan Tunggal,235,8,8,#eb0808,10,7,8,#0a0708,117,40,40,#752828
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_Boraspati/SumateraUtara_Boraspati (44).jpg,Sumatera Utara,Boraspati,2,Objek Dominan Tunggal,1,0,0,#010000,230,11,12,#e60b0c,85,40,41,#552829
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_Boraspati/SumateraUtara_Boraspati (76).jpg,Sumatera Utara,Boraspati,3,Ringan dengan Objek Kecil Terbuka,91,85,84,#5b5554,141,132,129,#8d8481,44,23,23,#2c1717
+/content/batik_dataset/dataset_batik_indo/Lampung_KacangHijau/Lampung_KacangHijau (27).jpg,Lampung,Kacang Hijau,3,Ringan dengan Objek Kecil Terbuka,207,103,73,#cf6749,220,122,92,#dc7a5c,180,82,57,#b45239
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Jlamprang/JawaTengah_Jlamprang (34).jpg,Jawa Tengah,Jlamprang,1,Padat & Ornamental,172,178,115,#acb273,112,153,102,#709966,44,126,89,#2c7e59
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Jlamprang/JawaTengah_Jlamprang (17).jpg,Jawa Tengah,Jlamprang,3,Ringan dengan Objek Kecil Terbuka,221,108,79,#dd6c4f,159,94,62,#9f5e3e,116,64,44,#74402c
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Jlamprang/JawaTengah_Jlamprang (32).jpg,Jawa Tengah,Jlamprang,3,Ringan dengan Objek Kecil Terbuka,205,128,78,#cd804e,152,75,49,#984b31,64,39,30,#40271e
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Jlamprang/JawaTengah_Jlamprang (16).jpg,Jawa Tengah,Jlamprang,3,Ringan dengan Objek Kecil Terbuka,98,99,105,#626369,131,136,134,#838886,64,62,72,#403e48
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Jlamprang/JawaTengah_Jlamprang (5).jpg,Jawa Tengah,Jlamprang,3,Ringan dengan Objek Kecil Terbuka,136,138,106,#888a6a,203,162,101,#cba265,214,45,40,#d62d28
+/content/batik_dataset/dataset_batik_indo/Maluku_Pala/Maluku_Pala (1).jpg,Maluku,Pala,3,Ringan dengan Objek Kecil Terbuka,210,43,40,#d22b28,232,58,57,#e83a39,227,117,80,#e37550
+/content/batik_dataset/dataset_batik_indo/Maluku_Pala/Maluku_Pala (2).jpg,Maluku,Pala,3,Ringan dengan Objek Kecil Terbuka,35,38,40,#232628,98,72,54,#624836,170,104,68,#aa6844
+/content/batik_dataset/dataset_batik_indo/Maluku_Pala/Maluku_Pala (16).jpg,Maluku,Pala,3,Ringan dengan Objek Kecil Terbuka,130,106,80,#826a50,182,174,113,#b6ae71,104,144,95,#68905f
+/content/batik_dataset/dataset_batik_indo/Maluku_Pala/Maluku_Pala (23).jpg,Maluku,Pala,3,Ringan dengan Objek Kecil Terbuka,180,35,87,#b42357,178,102,89,#b26659,146,67,60,#92433c
+/content/batik_dataset/dataset_batik_indo/Maluku_Pala/Maluku_Pala (20).jpg,Maluku,Pala,3,Ringan dengan Objek Kecil Terbuka,80,86,33,#505621,191,119,41,#bf7729,195,158,112,#c39e70
+/content/batik_dataset/dataset_batik_indo/Maluku_Pala/Maluku_Pala (3).jpg,Maluku,Pala,2,Objek Dominan Tunggal,39,129,47,#27812f,125,180,71,#7db447,196,213,88,#c4d558
+/content/batik_dataset/dataset_batik_indo/JawaTengah_JagungLombok/JawaTengah_JagungLombok (10).jpg,Jawa Tengah,Jagung Lombok,3,Ringan dengan Objek Kecil Terbuka,206,190,58,#cebe3a,161,144,32,#a19020,147,124,79,#937c4f
+/content/batik_dataset/dataset_batik_indo/JawaTengah_JagungLombok/JawaTengah_JagungLombok (1).jpg,Jawa Tengah,Jagung Lombok,3,Ringan dengan Objek Kecil Terbuka,119,118,71,#777647,86,70,26,#56461a,158,140,38,#9e8c26
+/content/batik_dataset/dataset_batik_indo/JawaTengah_LurikSemangka/JawaTengah_LurikSemangka (1).jpg,Jawa Tengah,Lurik Semangka,3,Ringan dengan Objek Kecil Terbuka,18,39,39,#122727,62,80,48,#3e5030,157,161,78,#9da14e
+/content/batik_dataset/dataset_batik_indo/Papua_Asmat/Papua_Asmat (12).jpg,Papua,Asmat,2,Objek Dominan Tunggal,175,136,102,#af8866,227,189,148,#e3bd94,20,12,14,#140c0e
+/content/batik_dataset/dataset_batik_indo/Papua_Asmat/Papua_Asmat (2).jpg,Papua,Asmat,3,Ringan dengan Objek Kecil Terbuka,193,59,131,#c13b83,195,137,152,#c38998,191,181,214,#bfb5d6
+/content/batik_dataset/dataset_batik_indo/Papua_Asmat/Papua_Asmat (26).jpg,Papua,Asmat,3,Ringan dengan Objek Kecil Terbuka,246,227,225,#f6e3e1,187,108,105,#bb6c69,204,143,142,#cc8f8e
+/content/batik_dataset/dataset_batik_indo/Lampung_Gajah/Lampung_Gajah (15).jpg,Lampung,Gajah,3,Ringan dengan Objek Kecil Terbuka,213,187,185,#d5bbb9,103,41,35,#672923,179,147,144,#b39390
+/content/batik_dataset/dataset_batik_indo/Lampung_Gajah/Lampung_Gajah (37).jpg,Lampung,Gajah,3,Ringan dengan Objek Kecil Terbuka,15,11,14,#0f0b0e,68,40,29,#44281d,127,94,43,#7f5e2b
+/content/batik_dataset/dataset_batik_indo/Lampung_Gajah/Lampung_Gajah (20).jpg,Lampung,Gajah,3,Ringan dengan Objek Kecil Terbuka,244,229,39,#f4e527,143,38,20,#8f2614,204,169,54,#cca936
+/content/batik_dataset/dataset_batik_indo/Lampung_Gajah/Lampung_Gajah (23).jpg,Lampung,Gajah,3,Ringan dengan Objek Kecil Terbuka,189,179,153,#bdb399,171,162,143,#aba28f,153,146,131,#999283
+/content/batik_dataset/dataset_batik_indo/Lampung_Gajah/Lampung_Gajah (33).jpg,Lampung,Gajah,0,Geometris Tajam Berulang,16,23,61,#10173d,69,62,99,#453e63,167,44,84,#a72c54
+/content/batik_dataset/dataset_batik_indo/Lampung_Gajah/Lampung_Gajah (18).jpg,Lampung,Gajah,3,Ringan dengan Objek Kecil Terbuka,142,29,34,#8e1d22,183,126,115,#b77e73,169,87,70,#a95746
+/content/batik_dataset/dataset_batik_indo/Lampung_Gajah/Lampung_Gajah (1).jpg,Lampung,Gajah,2,Objek Dominan Tunggal,39,26,26,#271a1a,129,120,123,#81787b,84,76,83,#544c53
+/content/batik_dataset/dataset_batik_indo/JawaTengah_JambuBelimbing/JawaTengah_JambuBelimbing (11).jpg,Jawa Tengah,Jambu Belimbing,3,Ringan dengan Objek Kecil Terbuka,12,12,11,#0c0c0b,65,56,47,#41382f,92,77,63,#5c4d3f
+/content/batik_dataset/dataset_batik_indo/JawaTengah_JambuBelimbing/JawaTengah_JambuBelimbing (17).jpg,Jawa Tengah,Jambu Belimbing,2,Objek Dominan Tunggal,125,111,92,#7d6f5c,87,75,65,#574b41,48,40,34,#302822
+/content/batik_dataset/dataset_batik_indo/Bali_Merak/Bali_Merak (23).jpg,Bali,Merak,2,Objek Dominan Tunggal,193,63,39,#c13f27,117,62,48,#753e30,36,20,20,#241414
+/content/batik_dataset/dataset_batik_indo/Bali_Merak/Bali_Merak (42).jpg,Bali,Merak,2,Objek Dominan Tunggal,2,1,1,#020101,103,52,31,#67341f,174,76,27,#ae4c1b
+/content/batik_dataset/dataset_batik_indo/Bali_Merak/Bali_Merak (12).jpg,Bali,Merak,1,Padat & Ornamental,71,69,70,#474546,118,104,84,#766854,40,41,47,#28292f
+/content/batik_dataset/dataset_batik_indo/Bali_Merak/Bali_Merak (57).jpg,Bali,Merak,2,Objek Dominan Tunggal,44,56,56,#2c3838,0,1,1,#000101,133,138,145,#858a91
+/content/batik_dataset/dataset_batik_indo/Bali_Merak/Bali_Merak (1).jpg,Bali,Merak,2,Objek Dominan Tunggal,28,23,22,#1c1716,94,66,53,#5e4235,155,115,89,#9b7359
+/content/batik_dataset/dataset_batik_indo/Bali_Merak/Bali_Merak (43).jpg,Bali,Merak,2,Objek Dominan Tunggal,30,28,33,#1e1c21,92,71,62,#5c473e,142,117,97,#8e7561
+/content/batik_dataset/dataset_batik_indo/Bali_Merak/Bali_Merak (50).jpg,Bali,Merak,3,Ringan dengan Objek Kecil Terbuka,144,138,144,#908a90,41,17,49,#291131,110,87,94,#6e575e
+/content/batik_dataset/dataset_batik_indo/Bali_Merak/Bali_Merak (71).jpg,Bali,Merak,2,Objek Dominan Tunggal,2,1,4,#020104,77,69,58,#4d453a,121,93,67,#795d43
+/content/batik_dataset/dataset_batik_indo/Bali_Merak/Bali_Merak (62).jpg,Bali,Merak,2,Objek Dominan Tunggal,124,76,53,#7c4c35,2,2,2,#020202,184,101,56,#b86538
+/content/batik_dataset/dataset_batik_indo/Bali_Merak/Bali_Merak (56).jpg,Bali,Merak,2,Objek Dominan Tunggal,11,7,7,#0b0707,129,97,66,#816142,183,142,111,#b78e6f
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Gentongan/JawaTimur_Gentongan (4).jpg,Jawa Timur,Gentongan,3,Ringan dengan Objek Kecil Terbuka,195,175,153,#c3af99,172,147,129,#ac9381,144,117,103,#907567
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Gentongan/JawaTimur_Gentongan (1).jpg,Jawa Timur,Gentongan,3,Ringan dengan Objek Kecil Terbuka,229,214,197,#e5d6c5,193,172,157,#c1ac9d,108,74,67,#6c4a43
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Gentongan/JawaTimur_Gentongan (8).jpg,Jawa Timur,Gentongan,3,Ringan dengan Objek Kecil Terbuka,189,166,148,#bda694,155,128,113,#9b8071,108,83,76,#6c534c
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Gentongan/JawaTimur_Gentongan (6).jpg,Jawa Timur,Gentongan,3,Ringan dengan Objek Kecil Terbuka,76,54,48,#4c3630,111,85,74,#6f554a,143,116,102,#8f7466
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Gentongan/JawaTimur_Gentongan (3).jpg,Jawa Timur,Gentongan,3,Ringan dengan Objek Kecil Terbuka,56,26,19,#381a13,210,211,200,#d2d3c8,176,172,152,#b0ac98
+/content/batik_dataset/dataset_batik_indo/KalimantanBarat_Insang/KalimantanBarat_Insang (11).jpg,Kalimantan Barat,Insang,0,Geometris Tajam Berulang,229,194,48,#e5c230,64,146,97,#409261,184,163,47,#b8a32f
+/content/batik_dataset/dataset_batik_indo/KalimantanBarat_Insang/KalimantanBarat_Insang (147).jpg,Kalimantan Barat,Insang,0,Geometris Tajam Berulang,79,66,58,#4f423a,152,124,117,#987c75,199,201,185,#c7c9b9
+/content/batik_dataset/dataset_batik_indo/KalimantanBarat_Insang/KalimantanBarat_Insang (12).jpg,Kalimantan Barat,Insang,0,Geometris Tajam Berulang,199,159,168,#c79fa8,231,154,33,#e79a21,82,43,102,#522b66
+/content/batik_dataset/dataset_batik_indo/KalimantanBarat_Insang/KalimantanBarat_Insang (4).jpg,Kalimantan Barat,Insang,0,Geometris Tajam Berulang,116,28,42,#741c2a,188,74,101,#bc4a65,148,52,71,#943447
+/content/batik_dataset/dataset_batik_indo/KalimantanBarat_Insang/KalimantanBarat_Insang (110).jpg,Kalimantan Barat,Insang,0,Geometris Tajam Berulang,248,248,248,#f8f8f8,199,199,199,#c7c7c7,92,92,92,#5c5c5c
+/content/batik_dataset/dataset_batik_indo/Kalimantan_Dayak/Kalimantan_Dayak (24).jpg,Kalimantan,Dayak,3,Ringan dengan Objek Kecil Terbuka,182,180,181,#b6b4b5,151,142,144,#978e90,115,96,99,#736063
+/content/batik_dataset/dataset_batik_indo/Kalimantan_Dayak/Kalimantan_Dayak (31).jpg,Kalimantan,Dayak,3,Ringan dengan Objek Kecil Terbuka,22,16,8,#161008,144,79,33,#904f21,218,218,7,#dada07
+/content/batik_dataset/dataset_batik_indo/Kalimantan_Dayak/Kalimantan_Dayak (15).jpg,Kalimantan,Dayak,2,Objek Dominan Tunggal,7,6,3,#070603,147,96,23,#936017,224,219,34,#e0db22
+/content/batik_dataset/dataset_batik_indo/Kalimantan_Dayak/Kalimantan_Dayak (14).jpg,Kalimantan,Dayak,3,Ringan dengan Objek Kecil Terbuka,7,7,7,#070707,241,225,5,#f1e105,180,157,18,#b49d12
+/content/batik_dataset/dataset_batik_indo/Kalimantan_Dayak/Kalimantan_Dayak (9).jpg,Kalimantan,Dayak,0,Geometris Tajam Berulang,7,8,5,#070805,160,142,29,#a08e1d,238,215,27,#eed71b
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangKusumo/JawaTengah_ParangKusumo (13).jpg,Jawa Tengah,Parang Kusumo,0,Geometris Tajam Berulang,57,42,26,#392a1a,108,83,58,#6c533a,152,121,92,#98795c
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangKusumo/JawaTengah_ParangKusumo (2).jpg,Jawa Tengah,Parang Kusumo,0,Geometris Tajam Berulang,96,41,16,#602910,116,66,31,#74421f,133,88,45,#85582d
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangKusumo/JawaTengah_ParangKusumo (11).jpg,Jawa Tengah,Parang Kusumo,1,Padat & Ornamental,251,249,248,#fbf9f8,167,132,131,#a78483,29,7,6,#1d0706
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangKusumo/JawaTengah_ParangKusumo (1).jpg,Jawa Tengah,Parang Kusumo,0,Geometris Tajam Berulang,166,160,133,#a6a085,145,134,110,#91866e,55,41,28,#37291c
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangKusumo/JawaTengah_ParangKusumo (3).jpg,Jawa Tengah,Parang Kusumo,0,Geometris Tajam Berulang,11,8,60,#0b083c,251,240,171,#fbf0ab,60,23,57,#3c1739
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangKusumo/JawaTengah_ParangKusumo (12).jpg,Jawa Tengah,Parang Kusumo,0,Geometris Tajam Berulang,79,63,59,#4f3f3b,113,91,84,#715b54,193,183,176,#c1b7b0
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangKusumo/JawaTengah_ParangKusumo (10).jpg,Jawa Tengah,Parang Kusumo,1,Padat & Ornamental,106,80,74,#6a504a,234,182,110,#eab66e,249,230,144,#f9e690
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangKusumo/JawaTengah_ParangKusumo (9).jpg,Jawa Tengah,Parang Kusumo,1,Padat & Ornamental,197,183,172,#c5b7ac,215,210,205,#d7d2cd,172,145,152,#ac9198
+/content/batik_dataset/dataset_batik_indo/Papua_Cendrawasih/Papua_Cendrawasih (32).jpg,Papua,Cendrawasih,3,Ringan dengan Objek Kecil Terbuka,184,50,73,#b83249,176,126,101,#b07e65,46,33,24,#2e2118
+/content/batik_dataset/dataset_batik_indo/Papua_Cendrawasih/Papua_Cendrawasih (45).jpg,Papua,Cendrawasih,2,Objek Dominan Tunggal,146,33,40,#922128,83,53,50,#533532,141,112,80,#8d7050
+/content/batik_dataset/dataset_batik_indo/Papua_Cendrawasih/Papua_Cendrawasih (1).jpg,Papua,Cendrawasih,2,Objek Dominan Tunggal,31,32,29,#1f201d,78,66,56,#4e4238,134,94,69,#865e45
+/content/batik_dataset/dataset_batik_indo/Papua_Cendrawasih/Papua_Cendrawasih (18).jpg,Papua,Cendrawasih,3,Ringan dengan Objek Kecil Terbuka,110,108,115,#6e6c73,84,81,87,#545157,136,135,143,#88878f
+/content/batik_dataset/dataset_batik_indo/Papua_Cendrawasih/Papua_Cendrawasih (9).jpg,Papua,Cendrawasih,2,Objek Dominan Tunggal,112,114,117,#707275,77,81,89,#4d5159,149,150,141,#95968d
+/content/batik_dataset/dataset_batik_indo/Papua_Cendrawasih/Papua_Cendrawasih (56).jpg,Papua,Cendrawasih,2,Objek Dominan Tunggal,48,52,67,#303443,85,92,97,#555c61,162,137,121,#a28979
+/content/batik_dataset/dataset_batik_indo/Papua_Cendrawasih/Papua_Cendrawasih (37).jpg,Papua,Cendrawasih,2,Objek Dominan Tunggal,3,2,3,#030203,207,172,123,#cfac7b,132,137,132,#848984
+/content/batik_dataset/dataset_batik_indo/Papua_Cendrawasih/Papua_Cendrawasih (6).jpg,Papua,Cendrawasih,3,Ringan dengan Objek Kecil Terbuka,69,176,207,#45b0cf,45,141,176,#2d8db0,115,126,113,#737e71
+/content/batik_dataset/dataset_batik_indo/Papua_Cendrawasih/Papua_Cendrawasih (3).jpg,Papua,Cendrawasih,3,Ringan dengan Objek Kecil Terbuka,141,33,38,#8d2126,81,48,43,#51302b,127,94,78,#7f5e4e
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (115).jpg,Jawa Tengah,Truntum,1,Padat & Ornamental,41,49,56,#293138,112,74,50,#704a32,118,112,106,#76706a
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (101).jpg,Jawa Tengah,Truntum,0,Geometris Tajam Berulang,37,9,2,#250902,55,26,18,#371a12,78,49,38,#4e3126
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (19).jpg,Jawa Tengah,Truntum,1,Padat & Ornamental,7,9,5,#070905,36,37,33,#242521,172,173,167,#acada7
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (25).jpg,Jawa Tengah,Truntum,1,Padat & Ornamental,43,43,50,#2b2b32,116,69,44,#74452c,180,127,67,#b47f43
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (15).jpg,Jawa Tengah,Truntum,3,Ringan dengan Objek Kecil Terbuka,17,12,19,#110c13,46,39,37,#2e2725,118,90,67,#765a43
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (55).jpg,Jawa Tengah,Truntum,1,Padat & Ornamental,178,178,178,#b2b2b2,153,153,153,#999999,204,203,203,#cccbcb
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (8).jpg,Jawa Tengah,Truntum,3,Ringan dengan Objek Kecil Terbuka,140,101,101,#8c6565,169,107,97,#a96b61,122,84,80,#7a5450
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (118).jpg,Jawa Tengah,Truntum,1,Padat & Ornamental,41,34,27,#29221b,129,90,60,#815a3c,84,59,39,#543b27
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (30).jpg,Jawa Tengah,Truntum,1,Padat & Ornamental,51,51,55,#333337,63,65,72,#3f4148,96,92,90,#605c5a
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (54).jpg,Jawa Tengah,Truntum,0,Geometris Tajam Berulang,158,123,90,#9e7b5a,73,43,18,#492b12,118,89,62,#76593e
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (26).jpg,Jawa Tengah,Truntum,1,Padat & Ornamental,21,17,18,#151112,43,35,34,#2b2322,76,54,45,#4c362d
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (105).jpg,Jawa Tengah,Truntum,1,Padat & Ornamental,74,78,78,#4a4e4e,101,101,97,#656561,48,53,59,#30353b
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Truntum/JawaTengah_Truntum (39).jpg,Jawa Tengah,Truntum,3,Ringan dengan Objek Kecil Terbuka,157,12,11,#9d0c0b,245,170,106,#f5aa6a,175,45,36,#af2d24
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_Kawung/Yogyakarta_Kawung (2).jpg,Yogyakarta,Kawung,3,Ringan dengan Objek Kecil Terbuka,250,241,229,#faf1e5,49,22,5,#311605,80,49,25,#503119
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_Kawung/Yogyakarta_Kawung (6).jpg,Yogyakarta,Kawung,3,Ringan dengan Objek Kecil Terbuka,240,230,204,#f0e6cc,86,40,20,#562814,36,12,3,#240c03
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_Kawung/Yogyakarta_Kawung (45).jpg,Yogyakarta,Kawung,3,Ringan dengan Objek Kecil Terbuka,84,37,6,#542506,147,102,62,#93663e,188,148,96,#bc9460
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_Kawung/Yogyakarta_Kawung (56).jpg,Yogyakarta,Kawung,1,Padat & Ornamental,248,247,249,#f8f7f9,60,34,56,#3c2238,112,64,88,#704058
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_Kawung/Yogyakarta_Kawung (10).jpg,Yogyakarta,Kawung,1,Padat & Ornamental,158,79,53,#9e4f35,21,19,22,#151316,163,111,94,#a36f5e
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_Kawung/Yogyakarta_Kawung (119).jpg,Yogyakarta,Kawung,1,Padat & Ornamental,56,18,15,#38120f,135,32,22,#872016,243,240,232,#f3f0e8
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_Kawung/Yogyakarta_Kawung (18).jpg,Yogyakarta,Kawung,1,Padat & Ornamental,217,186,120,#d9ba78,191,155,99,#bf9b63,151,106,65,#976a41
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_Kawung/Yogyakarta_Kawung (1).jpg,Yogyakarta,Kawung,1,Padat & Ornamental,173,81,53,#ad5135,18,16,20,#121014,186,135,124,#ba877c
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_Kawung/Yogyakarta_Kawung (25).jpg,Yogyakarta,Kawung,1,Padat & Ornamental,231,212,169,#e7d4a9,51,27,22,#331b16,208,182,136,#d0b688
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_Kawung/Yogyakarta_Kawung (8).jpg,Yogyakarta,Kawung,3,Ringan dengan Objek Kecil Terbuka,203,196,203,#cbc4cb,180,174,179,#b4aeb3,99,93,99,#635d63
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_Kawung/Yogyakarta_Kawung (33).jpg,Yogyakarta,Kawung,1,Padat & Ornamental,246,242,245,#f6f2f5,223,218,221,#dfdadd,137,132,135,#898487
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_Kawung/Yogyakarta_Kawung (23).jpg,Yogyakarta,Kawung,1,Padat & Ornamental,9,4,5,#090405,46,25,27,#2e191b,81,65,67,#514143
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Naga/JawaTengah_Naga (1).jpg,Jawa Tengah,Naga,3,Ringan dengan Objek Kecil Terbuka,27,28,27,#1b1c1b,119,119,106,#77776a,157,156,134,#9d9c86
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Naga/JawaTengah_Naga (74).jpg,Jawa Tengah,Naga,3,Ringan dengan Objek Kecil Terbuka,23,24,21,#171815,118,118,78,#76764e,152,149,120,#989578
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangSlobog/JawaTengah_ParangSlobog (12).jpg,Jawa Tengah,Parang Slobog,0,Geometris Tajam Berulang,149,77,73,#954d49,111,55,55,#6f3737,61,35,38,#3d2326
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangSlobog/JawaTengah_ParangSlobog (49).jpg,Jawa Tengah,Parang Slobog,0,Geometris Tajam Berulang,144,90,57,#905a39,159,119,94,#9f775e,168,157,151,#a89d97
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangSlobog/JawaTengah_ParangSlobog (38).jpg,Jawa Tengah,Parang Slobog,0,Geometris Tajam Berulang,175,164,174,#afa4ae,210,198,205,#d2c6cd,137,128,141,#89808d
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangSlobog/JawaTengah_ParangSlobog (2).jpg,Jawa Tengah,Parang Slobog,0,Geometris Tajam Berulang,47,49,54,#2f3136,86,83,84,#565354,120,120,121,#787879
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangSlobog/JawaTengah_ParangSlobog (32).jpg,Jawa Tengah,Parang Slobog,1,Padat & Ornamental,144,111,84,#906f54,103,78,59,#674e3b,181,149,124,#b5957c
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangSlobog/JawaTengah_ParangSlobog (13).jpg,Jawa Tengah,Parang Slobog,3,Ringan dengan Objek Kecil Terbuka,52,43,46,#342b2e,223,214,209,#dfd6d1,187,179,175,#bbb3af
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangSlobog/JawaTengah_ParangSlobog (25).jpg,Jawa Tengah,Parang Slobog,0,Geometris Tajam Berulang,152,107,70,#986b46,119,82,50,#775232,185,139,93,#b98b5d
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangSlobog/JawaTengah_ParangSlobog (28).jpg,Jawa Tengah,Parang Slobog,1,Padat & Ornamental,11,9,6,#0b0906,171,137,69,#ab8945,134,95,41,#865f29
+/content/batik_dataset/dataset_batik_indo/JawaTengah_ParangSlobog/JawaTengah_ParangSlobog (54).jpg,Jawa Tengah,Parang Slobog,0,Geometris Tajam Berulang,176,149,116,#b09574,195,170,136,#c3aa88,53,52,50,#353432
+/content/batik_dataset/dataset_batik_indo/JawaTengah_TebuBambu/JawaTengah_TebuBambu (20).jpg,Jawa Tengah,Tebu Bambu,3,Ringan dengan Objek Kecil Terbuka,244,197,126,#f4c57e,247,214,169,#f7d6a9,238,173,75,#eead4b
+/content/batik_dataset/dataset_batik_indo/Jakarta_OndelOndel/Jakarta_OndelOndel (10).jpg,Jakarta,Ondel Ondel,3,Ringan dengan Objek Kecil Terbuka,26,28,35,#1a1c23,132,127,127,#847f7f,84,88,96,#545860
+/content/batik_dataset/dataset_batik_indo/Jakarta_OndelOndel/Jakarta_OndelOndel (8).jpg,Jakarta,Ondel Ondel,3,Ringan dengan Objek Kecil Terbuka,7,47,160,#072fa0,82,114,168,#5272a8,176,184,182,#b0b8b6
+/content/batik_dataset/dataset_batik_indo/Jakarta_OndelOndel/Jakarta_OndelOndel (9).jpg,Jakarta,Ondel Ondel,3,Ringan dengan Objek Kecil Terbuka,98,87,68,#625744,68,56,39,#443827,127,118,100,#7f7664
+/content/batik_dataset/dataset_batik_indo/Jakarta_OndelOndel/Jakarta_OndelOndel (36).jpg,Jakarta,Ondel Ondel,3,Ringan dengan Objek Kecil Terbuka,9,9,11,#09090b,77,74,79,#4d4a4f,160,133,134,#a08586
+/content/batik_dataset/dataset_batik_indo/Jakarta_OndelOndel/Jakarta_OndelOndel (41).jpg,Jakarta,Ondel Ondel,3,Ringan dengan Objek Kecil Terbuka,176,173,167,#b0ada7,36,34,66,#242242,133,135,136,#858788
+/content/batik_dataset/dataset_batik_indo/Jakarta_OndelOndel/Jakarta_OndelOndel (46).jpg,Jakarta,Ondel Ondel,3,Ringan dengan Objek Kecil Terbuka,201,46,39,#c92e27,198,160,156,#c6a09c,202,106,97,#ca6a61
+/content/batik_dataset/dataset_batik_indo/Jakarta_OndelOndel/Jakarta_OndelOndel (53).jpg,Jakarta,Ondel Ondel,2,Objek Dominan Tunggal,16,154,95,#109a5f,91,140,126,#5b8c7e,152,187,170,#98bbaa
+/content/batik_dataset/dataset_batik_indo/Jakarta_OndelOndel/Jakarta_OndelOndel (51).jpg,Jakarta,Ondel Ondel,3,Ringan dengan Objek Kecil Terbuka,7,47,160,#072fa0,82,114,168,#5272a8,176,184,182,#b0b8b6
+/content/batik_dataset/dataset_batik_indo/Jakarta_OndelOndel/Jakarta_OndelOndel (4).jpg,Jakarta,Ondel Ondel,3,Ringan dengan Objek Kecil Terbuka,152,16,13,#98100d,160,48,53,#a03035,171,82,92,#ab525c
+/content/batik_dataset/dataset_batik_indo/Jakarta_OndelOndel/Jakarta_OndelOndel (23).jpg,Jakarta,Ondel Ondel,3,Ringan dengan Objek Kecil Terbuka,204,142,7,#cc8e07,195,158,97,#c39e61,133,125,136,#857d88
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Tembakau/JawaTengah_Tembakau (37).jpg,Jawa Tengah,Tembakau,3,Ringan dengan Objek Kecil Terbuka,34,52,46,#22342e,21,34,28,#15221c,152,142,123,#988e7b
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Tembakau/JawaTengah_Tembakau (13).jpg,Jawa Tengah,Tembakau,3,Ringan dengan Objek Kecil Terbuka,25,34,27,#19221b,168,149,109,#a8956d,121,134,79,#79864f
+/content/batik_dataset/dataset_batik_indo/JawaTengah_IkanKerang/JawaTengah_IkanKerang (1).jpg,Jawa Tengah,Ikan Kerang,3,Ringan dengan Objek Kecil Terbuka,200,196,190,#c8c4be,26,28,27,#1a1c1b,159,150,131,#9f9683
+/content/batik_dataset/dataset_batik_indo/Lampung_Bledheg/Lampung_Bledheg (34).jpg,Lampung,Bledheg,3,Ringan dengan Objek Kecil Terbuka,18,20,22,#121416,33,47,55,#212f37,159,149,120,#9f9578
+/content/batik_dataset/dataset_batik_indo/Lampung_Bledheg/Lampung_Bledheg (18).jpg,Lampung,Bledheg,3,Ringan dengan Objek Kecil Terbuka,31,37,44,#1f252c,106,104,91,#6a685b,71,72,67,#474843
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_SekarJeruk/Yogyakarta_SekarJeruk (1).jpg,Yogyakarta,Sekar Jeruk,1,Padat & Ornamental,28,26,41,#1c1a29,85,65,59,#55413b,140,113,96,#8c7160
+/content/batik_dataset/dataset_batik_indo/NTB_Lumbung/NTB_Lumbung (6).jpg,N T B,Lumbung,3,Ringan dengan Objek Kecil Terbuka,40,27,13,#281b0d,99,47,33,#632f21,174,60,37,#ae3c25
+/content/batik_dataset/dataset_batik_indo/NTB_Lumbung/NTB_Lumbung (18).jpg,N T B,Lumbung,3,Ringan dengan Objek Kecil Terbuka,195,1,23,#c30117,135,3,8,#870308,215,211,197,#d7d3c5
+/content/batik_dataset/dataset_batik_indo/NTB_Lumbung/NTB_Lumbung (2).jpg,N T B,Lumbung,3,Ringan dengan Objek Kecil Terbuka,22,121,185,#1679b9,16,96,151,#106097,101,156,193,#659cc1
+/content/batik_dataset/dataset_batik_indo/NTB_Lumbung/NTB_Lumbung (15).jpg,N T B,Lumbung,3,Ringan dengan Objek Kecil Terbuka,179,104,127,#b3687f,128,45,72,#802d48,156,67,94,#9c435e
+/content/batik_dataset/dataset_batik_indo/NTB_Lumbung/NTB_Lumbung (23).jpg,N T B,Lumbung,3,Ringan dengan Objek Kecil Terbuka,57,59,92,#393b5c,146,155,188,#929bbc,113,123,161,#717ba1
+/content/batik_dataset/dataset_batik_indo/NTB_Lumbung/NTB_Lumbung (3).jpg,N T B,Lumbung,3,Ringan dengan Objek Kecil Terbuka,64,72,74,#40484a,122,136,140,#7a888c,98,106,107,#626a6b
+/content/batik_dataset/dataset_batik_indo/NTB_Lumbung/NTB_Lumbung (32).jpg,N T B,Lumbung,3,Ringan dengan Objek Kecil Terbuka,165,114,118,#a57276,174,137,136,#ae8988,187,162,158,#bba29e
+/content/batik_dataset/dataset_batik_indo/NTB_Lumbung/NTB_Lumbung (1).jpg,N T B,Lumbung,3,Ringan dengan Objek Kecil Terbuka,118,65,178,#7641b2,177,148,211,#b194d3,147,105,194,#9369c2
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Laut/Laut dari Bonang (6).jpg,Jawa Tengah,Laut,3,Ringan dengan Objek Kecil Terbuka,183,55,73,#b73749,208,76,98,#d04c62,188,147,149,#bc9395
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Laut/Laut dari Bonang (15).jpg,Jawa Tengah,Laut,2,Objek Dominan Tunggal,90,14,17,#5a0e11,81,12,14,#510c0e,61,9,10,#3d090a
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Laut/Laut dari Bonang (35).jpg,Jawa Tengah,Laut,3,Ringan dengan Objek Kecil Terbuka,248,135,168,#f887a8,248,244,238,#f8f4ee,235,212,202,#ebd4ca
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Cipratan/JawaTengah_Cipratan (1).jpg,Jawa Tengah,Cipratan,2,Objek Dominan Tunggal,145,56,35,#913823,116,157,37,#749d25,156,93,74,#9c5d4a
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (115).jpg,Jawa Tengah,Sidoluhur,3,Ringan dengan Objek Kecil Terbuka,102,84,81,#665451,129,114,110,#81726e,77,51,46,#4d332e
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (15).jpg,Jawa Tengah,Sidoluhur,1,Padat & Ornamental,195,98,32,#c36220,142,79,39,#8e4f27,84,62,54,#543e36
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (114).jpg,Jawa Tengah,Sidoluhur,0,Geometris Tajam Berulang,78,74,79,#4e4a4f,124,114,103,#7c7267,20,22,56,#141638
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (10).jpg,Jawa Tengah,Sidoluhur,1,Padat & Ornamental,167,107,56,#a76b38,202,136,61,#ca883d,129,82,54,#815236
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (40).jpg,Jawa Tengah,Sidoluhur,3,Ringan dengan Objek Kecil Terbuka,246,241,232,#f6f1e8,125,99,89,#7d6359,92,77,72,#5c4d48
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (23).jpg,Jawa Tengah,Sidoluhur,3,Ringan dengan Objek Kecil Terbuka,97,73,74,#61494a,48,31,32,#301f20,137,115,113,#897371
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (2).jpg,Jawa Tengah,Sidoluhur,3,Ringan dengan Objek Kecil Terbuka,200,194,197,#c8c2c5,242,240,241,#f2f0f1,74,55,51,#4a3733
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (144).jpg,Jawa Tengah,Sidoluhur,1,Padat & Ornamental,93,50,33,#5d3221,230,239,236,#e6efec,113,86,75,#71564b
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (96).jpg,Jawa Tengah,Sidoluhur,3,Ringan dengan Objek Kecil Terbuka,187,176,169,#bbb0a9,63,41,38,#3f2926,152,138,132,#988a84
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (88).jpg,Jawa Tengah,Sidoluhur,3,Ringan dengan Objek Kecil Terbuka,125,69,39,#7d4527,89,48,33,#593021,158,95,49,#9e5f31
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (43).jpg,Jawa Tengah,Sidoluhur,1,Padat & Ornamental,176,116,64,#b07440,196,145,87,#c49157,150,89,48,#965930
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (63).jpg,Jawa Tengah,Sidoluhur,3,Ringan dengan Objek Kecil Terbuka,72,57,55,#483937,199,194,195,#c7c2c3,241,237,238,#f1edee
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (111).jpg,Jawa Tengah,Sidoluhur,3,Ringan dengan Objek Kecil Terbuka,132,69,50,#844532,85,43,35,#552b23,138,104,97,#8a6861
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (18).jpg,Jawa Tengah,Sidoluhur,3,Ringan dengan Objek Kecil Terbuka,64,95,133,#405f85,96,134,168,#6086a8,135,172,197,#87acc5
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Sidoluhur/JawaTengah_Sidoluhur (153).jpg,Jawa Tengah,Sidoluhur,3,Ringan dengan Objek Kecil Terbuka,72,37,43,#48252b,107,73,62,#6b493e,194,175,130,#c2af82
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_ParangRusak/Yogyakarta_ParangRusak (43).jpg,Yogyakarta,Parang Rusak,0,Geometris Tajam Berulang,191,131,99,#bf8363,210,160,123,#d2a07b,161,101,74,#a1654a
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_ParangRusak/Yogyakarta_ParangRusak (1).jpg,Yogyakarta,Parang Rusak,0,Geometris Tajam Berulang,217,186,132,#d9ba84,157,123,79,#9d7b4f,188,155,106,#bc9b6a
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_ParangRusak/Yogyakarta_ParangRusak (3).jpg,Yogyakarta,Parang Rusak,1,Padat & Ornamental,126,77,37,#7e4d25,91,50,25,#5b3219,237,187,120,#edbb78
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_ParangRusak/Yogyakarta_ParangRusak (4).jpg,Yogyakarta,Parang Rusak,0,Geometris Tajam Berulang,250,250,205,#fafacd,189,185,151,#bdb997,121,97,75,#79614b
+/content/batik_dataset/dataset_batik_indo/JawaTengah_JambuCitra/JawaTengah_JambuCitra (27).jpg,Jawa Tengah,Jambu Citra,3,Ringan dengan Objek Kecil Terbuka,170,166,163,#aaa6a3,187,182,180,#bbb6b4,154,146,140,#9a928c
+/content/batik_dataset/dataset_batik_indo/SulawesiSelatan_Lontara/SulawesiSelatan_Lontara (5).jpg,Sulawesi Selatan,Lontara,3,Ringan dengan Objek Kecil Terbuka,20,22,31,#14161f,38,37,44,#26252c,96,55,43,#60372b
+/content/batik_dataset/dataset_batik_indo/SulawesiSelatan_Lontara/SulawesiSelatan_Lontara (12).jpg,Sulawesi Selatan,Lontara,3,Ringan dengan Objek Kecil Terbuka,27,26,26,#1b1a1a,10,9,9,#0a0909,96,92,90,#605c5a
+/content/batik_dataset/dataset_batik_indo/SulawesiSelatan_Lontara/SulawesiSelatan_Lontara (39).jpg,Sulawesi Selatan,Lontara,0,Geometris Tajam Berulang,37,36,43,#25242b,198,198,201,#c6c6c9,173,172,176,#adacb0
+/content/batik_dataset/dataset_batik_indo/SulawesiSelatan_Lontara/SulawesiSelatan_Lontara (20).jpg,Sulawesi Selatan,Lontara,0,Geometris Tajam Berulang,186,188,192,#babcc0,158,128,101,#9e8065,141,40,31,#8d281f
+/content/batik_dataset/dataset_batik_indo/SulawesiSelatan_Lontara/SulawesiSelatan_Lontara (14).jpg,Sulawesi Selatan,Lontara,3,Ringan dengan Objek Kecil Terbuka,31,35,53,#1f2335,60,62,75,#3c3e4b,93,95,106,#5d5f6a
+/content/batik_dataset/dataset_batik_indo/SulawesiSelatan_Lontara/SulawesiSelatan_Lontara (34).jpg,Sulawesi Selatan,Lontara,3,Ringan dengan Objek Kecil Terbuka,47,56,76,#2f384c,61,73,98,#3d4962,89,91,78,#595b4e
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_ParangCurigo/Yogyakarta_ParangCurigo (11).jpg,Yogyakarta,Parang Curigo,2,Objek Dominan Tunggal,48,35,39,#302327,209,208,206,#d1d0ce,95,66,67,#5f4243
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_ParangCurigo/Yogyakarta_ParangCurigo (10).jpg,Yogyakarta,Parang Curigo,0,Geometris Tajam Berulang,11,5,16,#0b0510,57,34,33,#392221,93,77,80,#5d4d50
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_ParangCurigo/Yogyakarta_ParangCurigo (1).jpg,Yogyakarta,Parang Curigo,0,Geometris Tajam Berulang,143,78,80,#8f4e50,165,127,126,#a57f7e,201,176,173,#c9b0ad
+/content/batik_dataset/dataset_batik_indo/Jakarta_Tumpal/Jakarta_Tumpal (30).jpg,Jakarta,Tumpal,1,Padat & Ornamental,195,46,35,#c32e23,189,109,79,#bd6d4f,23,98,140,#17628c
+/content/batik_dataset/dataset_batik_indo/Jakarta_Tumpal/Jakarta_Tumpal (51).jpg,Jakarta,Tumpal,1,Padat & Ornamental,8,9,10,#08090a,181,113,67,#b57143,81,78,77,#514e4d
+/content/batik_dataset/dataset_batik_indo/Jakarta_Tumpal/Jakarta_Tumpal (81).jpg,Jakarta,Tumpal,0,Geometris Tajam Berulang,121,106,100,#796a64,144,129,123,#90817b,92,83,80,#5c5350
+/content/batik_dataset/dataset_batik_indo/Jakarta_Tumpal/Jakarta_Tumpal (11).jpg,Jakarta,Tumpal,0,Geometris Tajam Berulang,64,60,83,#403c53,90,82,96,#5a5260,124,115,127,#7c737f
+/content/batik_dataset/dataset_batik_indo/Jakarta_Tumpal/Jakarta_Tumpal (40).jpg,Jakarta,Tumpal,0,Geometris Tajam Berulang,35,47,61,#232f3d,173,104,72,#ad6848,194,178,136,#c2b288
+/content/batik_dataset/dataset_batik_indo/Jakarta_Tumpal/Jakarta_Tumpal (72).jpg,Jakarta,Tumpal,0,Geometris Tajam Berulang,71,77,80,#474d50,97,102,100,#616664,38,43,59,#262b3b
+/content/batik_dataset/dataset_batik_indo/Jakarta_Tumpal/Jakarta_Tumpal (23).jpg,Jakarta,Tumpal,0,Geometris Tajam Berulang,129,110,91,#816e5b,93,88,86,#5d5856,156,138,110,#9c8a6e
+/content/batik_dataset/dataset_batik_indo/Jakarta_Tumpal/Jakarta_Tumpal (14).jpg,Jakarta,Tumpal,0,Geometris Tajam Berulang,175,36,65,#af2441,175,80,95,#af505f,123,99,114,#7b6372
+/content/batik_dataset/dataset_batik_indo/Jakarta_Tumpal/Jakarta_Tumpal (6).jpg,Jakarta,Tumpal,0,Geometris Tajam Berulang,41,90,147,#295a93,106,100,114,#6a6472,67,123,177,#437bb1
+/content/batik_dataset/dataset_batik_indo/Jakarta_Tumpal/Jakarta_Tumpal (3).jpg,Jakarta,Tumpal,0,Geometris Tajam Berulang,113,70,27,#71461b,135,96,47,#87602f,196,149,38,#c49526
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Pring/JawaTimur_Pring (5).jpg,Jawa Timur,Pring,2,Objek Dominan Tunggal,7,64,177,#0740b1,79,190,218,#4fbeda,24,186,228,#18bae4
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Pring/JawaTimur_Pring (29).jpg,Jawa Timur,Pring,3,Ringan dengan Objek Kecil Terbuka,159,162,156,#9fa29c,124,126,121,#7c7e79,114,90,72,#725a48
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Pring/JawaTimur_Pring (6).jpg,Jawa Timur,Pring,2,Objek Dominan Tunggal,31,43,108,#1f2b6c,111,122,129,#6f7a81,154,162,173,#9aa2ad
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Pring/JawaTimur_Pring (33).jpg,Jawa Timur,Pring,3,Ringan dengan Objek Kecil Terbuka,69,94,129,#455e81,62,80,103,#3e5067,96,110,118,#606e76
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Pring/JawaTimur_Pring (20).jpg,Jawa Timur,Pring,3,Ringan dengan Objek Kecil Terbuka,238,237,236,#eeedec,166,146,132,#a69284,130,108,94,#826c5e
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Pring/JawaTimur_Pring (13).jpg,Jawa Timur,Pring,3,Ringan dengan Objek Kecil Terbuka,29,21,34,#1d1522,90,78,99,#5a4e63,63,51,71,#3f3347
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Pring/JawaTimur_Pring (1).jpg,Jawa Timur,Pring,2,Objek Dominan Tunggal,26,32,43,#1a202b,59,62,64,#3b3e40,149,143,115,#958f73
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Pring/JawaTimur_Pring (38).jpg,Jawa Timur,Pring,2,Objek Dominan Tunggal,188,52,24,#bc3418,30,20,27,#1e141b,198,186,179,#c6bab3
+/content/batik_dataset/dataset_batik_indo/JawaTimur_Pring/JawaTimur_Pring (34).jpg,Jawa Timur,Pring,3,Ringan dengan Objek Kecil Terbuka,30,28,33,#1e1c21,153,118,111,#99766f,118,83,79,#76534f
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_PintuAceh/SumateraUtara_PintuAceh (12).jpg,Sumatera Utara,Pintu Aceh,3,Ringan dengan Objek Kecil Terbuka,126,59,50,#7e3b32,153,104,83,#996853,186,149,126,#ba957e
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_PintuAceh/SumateraUtara_PintuAceh (19).jpg,Sumatera Utara,Pintu Aceh,3,Ringan dengan Objek Kecil Terbuka,137,61,61,#893d3d,148,87,76,#94574c,167,118,95,#a7765f
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_PintuAceh/SumateraUtara_PintuAceh (1).jpg,Sumatera Utara,Pintu Aceh,0,Geometris Tajam Berulang,26,25,28,#1a191c,116,120,96,#747860,76,78,63,#4c4e3f
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_PintuAceh/SumateraUtara_PintuAceh (31).jpg,Sumatera Utara,Pintu Aceh,3,Ringan dengan Objek Kecil Terbuka,171,52,36,#ab3424,128,41,27,#80291b,204,139,79,#cc8b4f
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_PintuAceh/SumateraUtara_PintuAceh (8).jpg,Sumatera Utara,Pintu Aceh,3,Ringan dengan Objek Kecil Terbuka,200,174,149,#c8ae95,167,146,133,#a79285,126,109,102,#7e6d66
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_PintuAceh/SumateraUtara_PintuAceh (11).jpg,Sumatera Utara,Pintu Aceh,3,Ringan dengan Objek Kecil Terbuka,180,95,92,#b45f5c,194,138,129,#c28a81,218,194,178,#dac2b2
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_PintuAceh/SumateraUtara_PintuAceh (34).jpg,Sumatera Utara,Pintu Aceh,1,Padat & Ornamental,23,15,16,#170f10,102,95,99,#665f63,142,135,140,#8e878c
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_PintuAceh/SumateraUtara_PintuAceh (15).jpg,Sumatera Utara,Pintu Aceh,3,Ringan dengan Objek Kecil Terbuka,117,47,49,#752f31,83,23,26,#53171a,141,87,86,#8d5756
+/content/batik_dataset/dataset_batik_indo/SumateraUtara_PintuAceh/SumateraUtara_PintuAceh (25).jpg,Sumatera Utara,Pintu Aceh,3,Ringan dengan Objek Kecil Terbuka,174,29,38,#ae1d26,209,154,136,#d19a88,188,91,94,#bc5b5e
+/content/batik_dataset/dataset_batik_indo/SumateraBarat_RumahMinang/SumateraBarat_RumahMinang (11).jpg,Sumatera Barat,Rumah Minang,3,Ringan dengan Objek Kecil Terbuka,195,143,114,#c38f72,164,104,84,#a46854,134,68,57,#864439
+/content/batik_dataset/dataset_batik_indo/SumateraBarat_RumahMinang/SumateraBarat_RumahMinang (26).jpg,Sumatera Barat,Rumah Minang,3,Ringan dengan Objek Kecil Terbuka,224,219,194,#e0dbc2,199,196,180,#c7c4b4,144,148,152,#909498
+/content/batik_dataset/dataset_batik_indo/SumateraBarat_RumahMinang/SumateraBarat_RumahMinang (1).jpg,Sumatera Barat,Rumah Minang,3,Ringan dengan Objek Kecil Terbuka,116,77,117,#744d75,148,118,141,#94768d,179,154,170,#b39aaa
+/content/batik_dataset/dataset_batik_indo/SumateraBarat_RumahMinang/SumateraBarat_RumahMinang (27).jpg,Sumatera Barat,Rumah Minang,3,Ringan dengan Objek Kecil Terbuka,104,85,76,#68554c,76,57,48,#4c3930,189,177,166,#bdb1a6
+/content/batik_dataset/dataset_batik_indo/SumateraBarat_RumahMinang/SumateraBarat_RumahMinang (6).jpg,Sumatera Barat,Rumah Minang,2,Objek Dominan Tunggal,21,135,180,#1587b4,81,157,188,#519dbc,116,207,213,#74cfd5
+/content/batik_dataset/dataset_batik_indo/SumateraBarat_RumahMinang/SumateraBarat_RumahMinang (18).jpg,Sumatera Barat,Rumah Minang,3,Ringan dengan Objek Kecil Terbuka,95,72,84,#5f4854,121,96,102,#796066,188,161,155,#bca19b
+/content/batik_dataset/dataset_batik_indo/SumateraBarat_RumahMinang/SumateraBarat_RumahMinang (7).jpg,Sumatera Barat,Rumah Minang,3,Ringan dengan Objek Kecil Terbuka,87,65,68,#574144,123,93,88,#7b5d58,156,123,115,#9c7b73
+/content/batik_dataset/dataset_batik_indo/JawaTengah_Yuyu/JawaTengah_Yuyu (14).jpg,Jawa Tengah,Yuyu,2,Objek Dominan Tunggal,29,67,62,#1d433e,175,121,63,#af793f,93,118,96,#5d7660
+/content/batik_dataset/dataset_batik_indo/Yogyakarta_SekarGambir/Yogyakarta_SekarGambir (1).jpg,Yogyakarta,Sekar Gambir,1,Padat & Ornamental,46,41,47,#2e292f,99,76,65,#634c41,151,118,93,#97765d
+/content/batik_dataset/dataset_batik_indo/Bali_Barong/Bali_Barong (53).jpg,Bali,Barong,2,Objek Dominan Tunggal,117,187,240,#75bbf0,94,157,208,#5e9dd0,85,125,158,#557d9e
+/content/batik_dataset/dataset_batik_indo/Bali_Barong/Bali_Barong (1).jpg,Bali,Barong,2,Objek Dominan Tunggal,176,134,126,#b0867e,41,44,64,#292c40,156,80,82,#9c5052
+/content/batik_dataset/dataset_batik_indo/Bali_Barong/Bali_Barong (55).jpg,Bali,Barong,2,Objek Dominan Tunggal,131,98,74,#83624a,114,74,53,#724a35,71,47,39,#472f27
+/content/batik_dataset/dataset_batik_indo/Bali_Barong/Bali_Barong (44).jpg,Bali,Barong,2,Objek Dominan Tunggal,15,17,35,#0f1123,69,63,68,#453f44,176,120,97,#b07861
+/content/batik_dataset/dataset_batik_indo/Bali_Barong/Bali_Barong (64).jpg,Bali,Barong,2,Objek Dominan Tunggal,178,177,166,#b2b1a6,146,145,141,#92918d,112,111,108,#706f6c
+/content/batik_dataset/dataset_batik_indo/Bali_Barong/Bali_Barong (78).jpg,Bali,Barong,2,Objek Dominan Tunggal,99,156,148,#639c94,51,110,109,#336e6d,38,75,72,#264b48
+/content/batik_dataset/dataset_batik_indo/Bali_Barong/Bali_Barong (60).jpg,Bali,Barong,2,Objek Dominan Tunggal,62,50,50,#3e3232,92,81,81,#5c5151,124,115,112,#7c7370
+/content/batik_dataset/dataset_batik_indo/Bali_Barong/Bali_Barong (69).jpg,Bali,Barong,2,Objek Dominan Tunggal,18,21,42,#12152a,78,71,77,#4e474d,179,118,95,#b3765f
+/content/batik_dataset/dataset_batik_indo/Bali_Barong/Bali_Barong (61).jpg,Bali,Barong,2,Objek Dominan Tunggal,214,148,18,#d69412,178,100,20,#b26414,137,39,29,#89271d
+/content/batik_dataset/dataset_batik_indo/Bali_Barong/Bali_Barong (68).jpg,Bali,Barong,2,Objek Dominan Tunggal,29,32,52,#1d2034,196,150,134,#c49686,162,73,78,#a2494e
+/content/batik_dataset/dataset_batik_indo/Papua_Tifa/Papua_Tifa (4).jpg,Papua,Tifa,3,Ringan dengan Objek Kecil Terbuka,149,56,49,#953831,30,49,102,#1e3166,25,88,173,#1958ad
+/content/batik_dataset/dataset_batik_indo/Papua_Tifa/Papua_Tifa (5).jpg,Papua,Tifa,2,Objek Dominan Tunggal,23,20,18,#171412,147,80,48,#935030,84,52,38,#543426
+/content/batik_dataset/dataset_batik_indo/Papua_Tifa/Papua_Tifa (26).jpg,Papua,Tifa,2,Objek Dominan Tunggal,26,30,30,#1a1e1e,84,83,58,#54533a,142,110,73,#8e6e49
+/content/batik_dataset/dataset_batik_indo/Papua_Tifa/Papua_Tifa (11).jpg,Papua,Tifa,2,Objek Dominan Tunggal,119,128,96,#778060,146,155,119,#929b77,89,95,78,#595f4e
+/content/batik_dataset/dataset_batik_indo/JawaBarat_Megamendung/JawaBarat_Megamendung (25).jpg,Jawa Barat,Megamendung,0,Geometris Tajam Berulang,207,208,210,#cfd0d2,84,155,155,#549b9b,53,124,120,#357c78
+/content/batik_dataset/dataset_batik_indo/JawaBarat_Megamendung/JawaBarat_Megamendung (26).jpg,Jawa Barat,Megamendung,3,Ringan dengan Objek Kecil Terbuka,225,132,143,#e1848f,39,36,44,#27242c,194,82,91,#c2525b
+/content/batik_dataset/dataset_batik_indo/JawaBarat_Megamendung/JawaBarat_Megamendung (12).jpg,Jawa Barat,Megamendung,0,Geometris Tajam Berulang,232,48,83,#e83053,241,100,145,#f16491,238,73,114,#ee4972
+/content/batik_dataset/dataset_batik_indo/JawaBarat_Megamendung/JawaBarat_Megamendung (54).jpg,Jawa Barat,Megamendung,3,Ringan dengan Objek Kecil Terbuka,141,30,127,#8d1e7f,104,42,123,#682a7b,206,113,200,#ce71c8
+/content/batik_dataset/dataset_batik_indo/JawaBarat_Megamendung/JawaBarat_Megamendung (18).jpg,Jawa Barat,Megamendung,3,Ringan dengan Objek Kecil Terbuka,33,27,29,#211b1d,37,55,125,#25377d,92,113,151,#5c7197
+/content/batik_dataset/dataset_batik_indo/JawaBarat_Megamendung/JawaBarat_Megamendung (33).jpg,Jawa Barat,Megamendung,0,Geometris Tajam Berulang,17,66,210,#1142d2,14,28,138,#0e1c8a,90,130,220,#5a82dc
+/content/batik_dataset/dataset_batik_indo/JawaBarat_Megamendung/JawaBarat_Megamendung (14).jpg,Jawa Barat,Megamendung,0,Geometris Tajam Berulang,251,250,250,#fbfafa,70,98,157,#46629d,114,140,190,#728cbe
+/content/batik_dataset/dataset_batik_indo/JawaBarat_Megamendung/JawaBarat_Megamendung (1).jpg,Jawa Barat,Megamendung,0,Geometris Tajam Berulang,20,36,108,#14246c,169,195,234,#a9c3ea,19,98,192,#1362c0
+/content/batik_dataset/dataset_batik_indo/JawaBarat_Megamendung/JawaBarat_Megamendung (37).jpg,Jawa Barat,Megamendung,0,Geometris Tajam Berulang,40,47,69,#282f45,17,23,38,#111726,152,136,147,#988893
+/content/batik_dataset/dataset_batik_indo/JawaBarat_Megamendung/JawaBarat_Megamendung (88).jpg,Jawa Barat,Megamendung,0,Geometris Tajam Berulang,62,16,10,#3e100a,251,225,170,#fbe1aa,117,52,35,#753423
+/content/batik_dataset/dataset_batik_indo/JawaTengah_MasjidAgungDemak/JawaTengah_MasjidAgungDemak (1).jpg,Jawa Tengah,Masjid Agung Demak,2,Objek Dominan Tunggal,27,28,27,#1b1c1b,73,56,41,#493829,172,117,38,#ac7526
